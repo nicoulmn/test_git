@@ -1,5 +1,5 @@
 <?php
 
-$env  = 'default';
+$env  = 'default2';
 $test = 'test';
 
