@@ -1,7 +1,7 @@
 <?php
 
 $env  = 'default3';
-$test = 'test';
+$test = 'testelastic';
 $test = 'test2master';
 $test = 'elasticplus';
 
