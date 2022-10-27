@@ -1,8 +1,9 @@
 <?php
 
 $env  = 'default2';
-$test = 'test';
+$test = 'testelastic';
 $test = 'test2master';
+$test = 'elasticplus';
 
 $test = 'test2master2';
 $test = 'test2master3';
