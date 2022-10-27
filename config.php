@@ -4,6 +4,7 @@ $env  = 'default4';
 $test = 'testelastic';
 $test = 'test2master';
 $test = 'elasticplus';
+$test = 'elasticplus2';
 
 $test = 'test2master2';
 $test = 'test2master3';
